@@ -42,7 +42,7 @@ excel advanced
 
 ## পর্যায় ৪: ডেটা অ্যানালাইসিস
 ### Lookup Functions:
-- **VLOOKUP, HLOOKUP, XLOOKUP with choose formula।**
+- **VLOOKUP, HLOOKUP, XLOOKUP with choose() formula,unique()।**
 - **উদাহরণ:** আইডি অনুসারে নাম বা গ্রেড খুঁজে বের করা।
 
 ### Pivot Table:
