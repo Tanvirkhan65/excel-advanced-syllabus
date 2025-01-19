@@ -1,75 +1,166 @@
-# excel-advanced-syllabus
-excel advanced
-# শেখার পর্যায়ভিত্তিক পরিকল্পনা
+Microsoft Excel 2025 Full Syllabus in Bangla
 
-## পর্যায় ১: এক্সেলের বেসিকস
-### Excel Interface:
-- Ribbon, Tabs, Formula Bar, Status Bar সম্পর্কে জানুন।
-- বিভিন্ন Shortcut Keys শিখুন।
+1. Excel পরিচিতি ও মূল নিঠিপত
 
-### Basic Operations:
-- সেল, রো, এবং কলাম ম্যানিপুলেশন।
-- Copy-Paste, Fill Handle ব্যবহার।
+Excel স্পর্শ্রতি সম্পর্ক
 
-### ফর্মুলা লিখা ও ব্যবহার:
-- Addition, Subtraction, Multiplication, এবং Division।
-- Absolute এবং Relative Cell Reference (`$A$1`)।
+রিবন, ট্যাব, ওয়ার্কবুক, শীট, সেল।
 
----
+Ribbon কাস্টমাইজেশন ও Quick Access Toolbar বায়ের ব্যবহার।
 
-## পর্যায় ২: ডেটা অর্গানাইজেশন
-### Data Validation:
-- কিভাবে একটি সেলে নির্দিষ্ট ধরনের ডেটা ইনপুট করতে বাধ্য করা যায়।
+Excel পুনরাবৃত্ত কাজগুলি
 
-### Sorting & Filtering:
-- বড় ডেটা ফিল্টার করে কাঙ্ক্ষিত তথ্য বের করুন।
+ফাইল ওপেন, সেভ, শেয়ারিং।
 
-### Duplicates Remover:
-- ডুপ্লিকেট তথ্য অপসারণ করে ডেটা পরিষ্কার করুন।
+সিম্পল কাজগুলি
 
----
+সেল সিলেকশন, ডেটা এন্ট্রি, Undo/Redo, Autofill।
 
-## পর্যায় ৩: টেক্সট ও লজিক্যাল ফাংশনস
-### Text Functions:
-- **LEFT, RIGHT, MID, CONCAT, FIND, TRIM** ইত্যাদি।
-- **উদাহরণ:** নামের প্রথম অংশ বের করা।
+2. ডেটা ম্যানেজমেন্ট ও ফরম্যাটিং
 
-### Logical Functions:
-- **IF, AND, OR, IFS।**
-- **উদাহরণ:** পাস বা ফেল নির্ধারণ।
+ইনপুট এবং ফরম্যাটিং:
 
----
+সেল ফরম্যাটিং:
 
-## পর্যায় ৪: ডেটা অ্যানালাইসিস
-### Lookup Functions:
-- **VLOOKUP, HLOOKUP, XLOOKUP with choose() formula,unique()।**
-- **উদাহরণ:** আইডি অনুসারে নাম বা গ্রেড খুঁজে বের করা।
+Font, Border, Fill Color।
 
-### Pivot Table:
-- ডেটার সারসংক্ষেপ তৈরি করা।
-- **উদাহরণ:** বিক্রয় ডেটা বিশ্লেষণ।
+Number Formatting (মুদ্রা, Percentage, Decimal)।
 
-### Conditional Formatting:
-- নির্দিষ্ট মান অনুযায়ী সেলের রঙ পরিবর্তন।
+Conditional Formatting:
 
----
+ডেটার উপর নির্ভর সেল রং পরিবর্তন।
 
-## পর্যায় ৫: চার্ট ও ভিজ্যুয়ালাইজেশন
-### Charts Creation:
-- **Bar, Pie, Line, এবং Combo Charts** তৈরি করা।
+Sort এবং Filter:
 
-### Dashboards:
-- ডেটা বিশ্লেষণের জন্য ইন্টারঅ্যাক্টিভ ড্যাশবোর্ড তৈরি।
+ডেটা সঠিকভাবে সাজানো এবং প্রয়োজনমতো ফিল্টার করা।
 
----
+ডেটা ভ্যালিডেশন:
 
-## পর্যায় ৬: অ্যাডভান্সড টপিকস
-### Nested Functions:
-- একাধিক ফাংশন একত্রে ব্যবহার।
+নির্দিষ্ট ইনপুট নিয়ন্ত্রণ, উদাহরণস্বরূপ: সংখ্যা বা তারিখ সীমাবদ্ধতা।
 
-### Data Automation:
-- **Macros** এবং **VBA** বেসিক শিখুন।
+3. ফরমুলা এবং ফাংশন
 
-### Power Query:
-- ডেটা ইমপোর্ট এবং ট্রান্সফর্ম।
+বেসিক ফাংশনসমূহ:
+
+গাণিতিক ফাংশন:
+
+SUM(), AVERAGE(), COUNT(), COUNTA(), MAX(), MIN()।
+
+লজিক্যাল ফাংশন:
+
+IF(), IFS(), AND(), OR(), NOT()।
+
+টেক্সট ফাংশন:
+
+CONCAT(), TEXT(), LEFT(), RIGHT(), MID(), TRIM(), LEN(), SUBSTITUTE()।
+
+ডেট ফাংশন:
+
+TODAY(), NOW(), DAY(), MONTH(), YEAR(), EOMONTH()।
+
+শর্তাধীন ফাংশনসমূহ:
+
+COUNTIF(): নির্দিষ্ট শর্ত পূরণ করে এমন ডেটা গণনা।
+
+SUMIF(): নির্দিষ্ট শর্ত পূরণ করে এমন ডেটার যোগফল।
+
+AVERAGEIF(): নির্দিষ্ট শর্ত পূরণ করে এমন ডেটার গড়।
+
+অ্যাডভান্সড ফাংশন:
+
+XLOOKUP():
+
+সম্পর্কিত ডেটা ডাইনামিকভাবে খুঁজে বের করা।
+
+VLOOKUP(), HLOOKUP():
+
+ডেটা সারণি থেকে নির্দিষ্ট মান খুঁজে বের করা।
+
+INDEX-MATCH():
+
+ডেটার ফ্লেক্সিবল অনুসন্ধান সমাধান।
+
+ARRAY ফাংশন:
+
+UNIQUE(), SORT(), FILTER(), SEQUENCE(), RANDARRAY(), CHOSSE()।
+
+4. ডেটা ভিজ্যুয়ালাইজেশন
+
+চার্ট তৈরি:
+
+Column, Line, Pie, Bar চার্ট।
+
+Combo Chart, Sparkline।
+
+Dashboard Design:
+
+চার্ট ও ডেটা কার্ড কাস্টমাইজেশন।
+
+5. ডেটা বিশ্লেষণ
+
+Pivot Table এবং Pivot Chart:
+
+ডেটা সামারি তৈরি।
+
+বিভিন্ন মাপের উপর ভিত্তি করে ডেটা ফিল্টার ও ভিজ্যুয়ালাইজেশন।
+
+What-If Analysis:
+
+Goal Seek:
+
+নির্দিষ্ট আউটপুট পেতে ইনপুট পরিবর্তন।
+
+Scenario Manager:
+
+ভিন্ন পরিস্থিতিতে ডেটার পরিবর্তন দেখা।
+
+Data Table:
+
+একাধিক ইনপুটের উপর ভিত্তি করে আউটপুট পরীক্ষা।
+
+ডেটা ভ্যালিডেশন:
+
+ডেটা ইনপুট নিয়ন্ত্রণ।
+
+উদাহরণ: কেবল নির্দিষ্ট সংখ্যা বা তারিখ অনুমোদন।
+
+Power Query এবং Power Pivot:
+
+বড় ডেটাসেট ইম্পোর্ট, ক্লিন এবং রিফ্রেশ।
+
+কাস্টম ক্যালকুলেশন এবং ডেটা মডেল তৈরি।
+
+6. অটোমেশন এবং অ্যাডভান্সড টুলস
+
+Macro এবং VBA:
+
+পুনরাবৃত্ত কাজ অটোমেশন।
+
+কাস্টম ফাংশন এবং প্রোগ্রাম তৈরি।
+
+Dynamic Arrays এবং Advanced Formulas:
+
+LET(): ফর্মুলা সরলীকরণ।
+
+LAMBDA(): কাস্টম ফাংশন তৈরি।
+
+Collaboration Tools:
+
+Real-time co-authoring।
+
+Comments এবং Threaded Discussions।
+
+7. Excel থেকে রিপোর্ট তৈরি এবং শেয়ারিং
+
+Report Automation:
+
+Template তৈরি।
+
+Link করা ডেটার মাধ্যমে স্বয়ংক্রিয় রিপোর্ট আপডেট।
+
+Export এবং Sharing Options:
+
+PDF, CSV, এবং অন্যান্য ফরম্যাটে ডেটা এক্সপোর্ট।
+
+ক্লাউড শেয়ারিং (OneDrive, SharePoint)।
 
